@@ -1,0 +1,23 @@
+{
+  "name": "requestheaderparser",
+  "version": "1.0.0",
+  "description": "Request Header Parser Microservice @ FCC",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eyahm8/Request-Header-Parser-Microservice.git"
+  },
+  "author": "Mikael Rasimus",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/eyahm8/Request-Header-Parser-Microservice/issues"
+  },
+  "homepage": "https://github.com/eyahm8/Request-Header-Parser-Microservice#readme",
+  "dependencies": {
+    "express": "^4.15.2",
+    "ua-parser-js": "^0.7.12"
+  }
+}
